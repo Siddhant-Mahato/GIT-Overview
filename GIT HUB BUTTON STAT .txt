@@ -1,0 +1,13 @@
+GIT HUB BUTTON STAT :
+
+1. + sign to create new repo
+
+2. public selected
+
+3. add a README
+
+4. Create repo
+
+5. upload file  and after commit changes
+
+6. Setting - pages - none - main - save
